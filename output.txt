@@ -1,0 +1,5 @@
+Total recycled: 26
+Paper percentage: 38.46%
+Plastic percentage: 19.23%
+Glass percentage: 30.77%
+Metal percentage: 11.54%

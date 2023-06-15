@@ -1,0 +1,6 @@
+paper, 10
+plastic, 5
+
+garbage, 1
+glass, 8
+metal, 3
